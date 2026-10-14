@@ -1,0 +1,104 @@
+{
+  "strings": {
+    "en": {
+      "subtitle": "Seminar on the Economics of Energy and the Environment",
+      "description": "AFFLUX is the international research seminar on the Economics of Energy and the Environment, convened since 2011 by Victor Polterovich and Sergey Chernavsky: energy markets, natural resources and the environment, complex systems, technological change and optimisation.",
+      "footerRegister": "Announcements of each session reach the mailing list about a week ahead.",
+      "proposeTalk": "To propose a talk, write to",
+      "announcedShortly": "The next seminar will be announced shortly; subscribers receive the announcement by email.",
+      "noUpcoming": "No seminars are scheduled at the moment. The next one is announced on the mailing list about a week ahead.",
+      "archiveIntro": "Recordings, slides and minutes of past sessions, published with the speakers' permission.",
+      "archiveEmpty": "The archive opens with the first recorded session.",
+      "joinOpenNote": "Open to all. The meeting opens when the host starts it.",
+      "joinLater": "The link to join will appear here before the session.",
+      "subscribeLead": "Announcements of the sessions are sent by email about a week ahead, with the title, the abstract and the link to join.",
+      "subscribeHow": "To subscribe, write to the seminar address. Please say whether you would like announcements of English-language sessions, Russian-language sessions, or both.",
+      "subscribeNote": "The address is used only for the seminar’s own mailings and is never published or passed on. To unsubscribe, write to the same address. This site itself keeps no data about its visitors: no accounts, no forms, no analytics.",
+      "registerCta": "Subscribe to announcements"
+    },
+    "ru": {
+      "subtitle": "Семинар «Экономика энергетики и окружающей среды»",
+      "description": "AFFLUX — международный научный семинар «Экономика энергетики и окружающей среды», работающий с 2011 года под руководством В. М. Полтеровича и С. Я. Чернавского: энергетические рынки, природные ресурсы и окружающая среда, сложные системы, технологические изменения и оптимизация.",
+      "footerRegister": "Анонс каждого заседания приходит подписчикам рассылки примерно за неделю.",
+      "proposeTalk": "Чтобы предложить доклад, напишите на",
+      "announcedShortly": "Следующее заседание будет объявлено в скором времени; подписчики получат анонс по почте.",
+      "noUpcoming": "Ближайшие заседания пока не назначены. Анонс следующего рассылается примерно за неделю.",
+      "archiveIntro": "Записи, презентации и протоколы прошедших заседаний, опубликованные с согласия докладчиков.",
+      "archiveEmpty": "Архив откроется с первой записанной сессии.",
+      "joinOpenNote": "Заседание открытое. Конференция откроется, когда её начнёт организатор.",
+      "joinLater": "Ссылка для подключения появится здесь перед заседанием.",
+      "subscribeLead": "Анонсы заседаний рассылаются по почте примерно за неделю: название, аннотация и ссылка для подключения.",
+      "subscribeHow": "Чтобы подписаться, напишите на адрес семинара. Укажите, пожалуйста, анонсы каких заседаний вы хотите получать: на русском языке, на английском или все.",
+      "subscribeNote": "Адрес используется только для рассылок семинара, не публикуется и никому не передаётся. Чтобы отписаться, напишите на тот же адрес. Сам сайт не хранит никаких данных о посетителях: здесь нет аккаунтов, форм и счётчиков.",
+      "registerCta": "Подписаться на анонсы"
+    }
+  },
+  "about": {
+    "en": [
+      "AFFLUX is the international research seminar on the Economics of Energy and the Environment, convened since 2011 by Victor Polterovich and Sergey Chernavsky. It meets online and brings together economists, physicists, engineers and policy researchers working on energy markets, natural resources and the environment, complex systems, technological change and optimisation.",
+      "Talks are given in English or in Russian. Sessions are open: the link to join is on the page of each talk, and announcements are sent to the mailing list about a week ahead.",
+      "Recordings are published with the speakers' permission, usually within a few days of the session; slides and the minutes of the discussion are published as they arrive. Comments and suggestions are welcome at the seminar address."
+    ],
+    "ru": [
+      "AFFLUX — международный научный семинар «Экономика энергетики и окружающей среды», работающий с 2011 года под руководством В. М. Полтеровича и С. Я. Чернавского. Семинар проходит онлайн и объединяет экономистов, физиков, инженеров и исследователей политики, работающих с энергетическими рынками, природными ресурсами и окружающей средой, сложными системами, технологическими изменениями и оптимизацией.",
+      "Доклады читаются на английском или на русском языке. Заседания открытые: ссылка для подключения — на странице доклада, а анонс рассылается подписчикам примерно за неделю.",
+      "Записи публикуются с согласия докладчиков, как правило, в течение нескольких дней после заседания; презентации и протоколы обсуждений — по мере поступления. Комментарии и пожелания руководителям семинара можно направить на адрес семинара."
+    ]
+  },
+  "conveners": [
+    {
+      "name": {
+        "en": "Victor Polterovich",
+        "ru": "В. М. Полтерович"
+      },
+      "fullName": {
+        "en": "Victor Polterovich",
+        "ru": "Виктор Меерович Полтерович"
+      },
+      "credentials": {
+        "en": [
+          "Academician of the Russian Academy of Sciences; Doctor of Science (Economics), Candidate of Science (Physics and Mathematics); Professor",
+          "Member of Academia Europaea; Fellow of the Econometric Society",
+          "Head of the Laboratory of Mathematical Economics, Central Economics and Mathematics Institute, RAS",
+          "Deputy Director, Moscow School of Economics, Lomonosov Moscow State University",
+          "Professor Emeritus, New Economic School",
+          "Visiting Professor, University of Pennsylvania (1991)"
+        ],
+        "ru": [
+          "Академик РАН, доктор экономических наук, кандидат физико-математических наук, профессор",
+          "Член Academia Europaea, действительный член Эконометрического общества",
+          "Заведующий Лабораторией математической экономики ЦЭМИ РАН",
+          "Заместитель директора Московской школы экономики МГУ имени М. В. Ломоносова",
+          "Почётный профессор Российской экономической школы",
+          "Приглашённый профессор Пенсильванского университета (1991)"
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Sergey Chernavsky",
+        "ru": "С. Я. Чернавский"
+      },
+      "fullName": {
+        "en": "Sergey Chernavsky",
+        "ru": "Сергей Яковлевич Чернавский"
+      },
+      "credentials": {
+        "en": [
+          "Doctor of Science (Economics), Candidate of Science (Engineering)",
+          "Head of the Laboratory of Economic Problems of Energy, Central Economics and Mathematics Institute, RAS",
+          "Head of the Working Group on Macroeconomic Problems of Energy at the Presidium of the Russian Academy of Sciences",
+          "Member of the Academic Council, Institute for Energy and Finance",
+          "Visiting Professor, Moscow School of Economics, Lomonosov Moscow State University"
+        ],
+        "ru": [
+          "Доктор экономических наук, кандидат технических наук",
+          "Заведующий Лабораторией экономических проблем энергетики ЦЭМИ РАН",
+          "Руководитель Рабочей группы при Президиуме РАН по макроэкономическим проблемам энергетики",
+          "Член Учёного совета Фонда «Институт энергетики и финансов»",
+          "Приглашённый профессор Московской школы экономики МГУ имени М. В. Ломоносова"
+        ]
+      }
+    }
+  ]
+}
