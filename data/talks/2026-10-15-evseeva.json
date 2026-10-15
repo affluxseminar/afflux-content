@@ -1,5 +1,4 @@
 {
-  "number": 1,
   "slug": "2026-10-15-evseeva",
   "speaker": {
     "en": "Olga V. Evseeva",
@@ -26,7 +25,8 @@
     "ru": "Кандидат географических наук, старший научный сотрудник ЦЭМИ РАН."
   },
   "zoom": "https://us06web.zoom.us/j/85075288502?pwd=0DXMKdiQhTgyMxWiYI4MvsuWLr4b3M.1",
-  "video": "",
-  "slides": "",
-  "minutes": ""
+  "video": "https://youtu.be/Qes2HMrifRY",
+  "slides": "2026-10-15-evseeva-slides.pptx",
+  "minutes": "",
+  "number": 1
 }
