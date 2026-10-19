@@ -13,7 +13,7 @@
       "joinLater": "The link to join will appear here before the session.",
       "subscribeLead": "Announcements of the sessions are sent by email about a week ahead, with the title, the abstract and the link to join.",
       "subscribeHow": "To subscribe, write to the seminar address. Please say whether you would like announcements of English-language sessions, Russian-language sessions, or both.",
-      "subscribeNote": "The address is used only for the seminar’s own mailings and is never published or passed on. To unsubscribe, write to the same address. This site itself keeps no data about its visitors: no accounts, no forms, no analytics.",
+      "subscribeNote": "The address is used only for the seminar’s own mailings and is never published or passed on. Every announcement ends with an unsubscribe link; you can also unsubscribe by writing to the same address. This site itself keeps no data about its visitors: no accounts, no forms, no analytics.",
       "registerCta": "Subscribe to announcements"
     },
     "ru": {
@@ -29,7 +29,7 @@
       "joinLater": "Ссылка для подключения появится здесь перед заседанием.",
       "subscribeLead": "Анонсы заседаний рассылаются по почте примерно за неделю: название, аннотация и ссылка для подключения.",
       "subscribeHow": "Чтобы подписаться, напишите на адрес семинара. Укажите, пожалуйста, анонсы каких заседаний вы хотите получать: на русском языке, на английском или все.",
-      "subscribeNote": "Адрес используется только для рассылок семинара, не публикуется и никому не передаётся. Чтобы отписаться, напишите на тот же адрес. Сам сайт не хранит никаких данных о посетителях: здесь нет аккаунтов, форм и счётчиков.",
+      "subscribeNote": "Адрес используется только для рассылок семинара, не публикуется и никому не передаётся. В конце каждого письма есть ссылка для отписки; можно и просто написать на тот же адрес. Сам сайт не хранит никаких данных о посетителях: здесь нет аккаунтов, форм и счётчиков.",
       "registerCta": "Подписаться на анонсы"
     }
   },
