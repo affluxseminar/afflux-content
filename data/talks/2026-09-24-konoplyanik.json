@@ -5,9 +5,9 @@
     "en": "Andrey A. Konoplyanik",
     "ru": "Андрей Александрович Конопляник"
   },
-  "degree": {
-    "en": "Doctor of Science (Economics), Professor",
-    "ru": "доктор экономических наук, профессор"
+  "titles": {
+    "en": "Doctor of Science (Economics), Professor\nMember of the Scientific Council of the Russian Academy of Sciences on Systems Research in Energy",
+    "ru": "Доктор экономических наук, профессор\nЧлен Научного совета РАН по системным исследованиям в энергетике"
   },
   "affiliation": {
     "en": "Scientific Council of the Russian Academy of Sciences on Systems Research in Energy",
