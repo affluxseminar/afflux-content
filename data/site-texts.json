@@ -3,45 +3,47 @@
     "en": {
       "subtitle": "Seminar on the Economics of Energy and the Environment",
       "description": "EEES is the international research seminar on the Economics of Energy and the Environment, convened since 2011 by Victor Polterovich and Sergey Chernavsky: energy markets, natural resources and the environment, complex systems, technological change and optimisation.",
-      "footerRegister": "Announcements of each session reach the mailing list about a week ahead.",
       "proposeTalk": "To propose a talk, write to",
-      "announcedShortly": "The next seminar will be announced shortly; subscribers receive the announcement by email.",
-      "noUpcoming": "No seminars are scheduled at the moment. The next one is announced on the mailing list about a week ahead.",
+      "announcedShortly": "The next seminar will be announced shortly.",
+      "noUpcoming": "No seminars are scheduled at the moment.",
       "archiveIntro": "Recordings, slides and minutes of past sessions, published with the speakers' permission.",
       "archiveEmpty": "The archive opens with the first recorded session.",
       "joinOpenNote": "Open to all. The meeting opens when the host starts it.",
       "joinLater": "The link to join will appear here before the session.",
-      "subscribeLead": "Announcements of the sessions are sent by email about a week ahead, with the title, the abstract and the link to join.",
-      "subscribeHow": "To subscribe, write to the seminar address. Please say whether you would like announcements of English-language sessions, Russian-language sessions, or both.",
-      "subscribeNote": "The address is used only for the seminar’s own mailings and is never published or passed on. Every announcement ends with an unsubscribe link; you can also unsubscribe by writing to the same address. This site itself keeps no data about its visitors: no accounts, no forms, no analytics.",
-      "registerCta": "Subscribe to announcements"
+      "footerPropose": "Proposals for talks are welcome at the seminar address.",
+      "proposeLead": "Proposals for talks are welcome by email to the seminar address. A proposal should state:",
+      "proposeItems": "the surnames, first names and patronymics (or middle names) of the speakers;\ntheir affiliations and positions;\ntheir academic degrees and titles, or level of qualification (professor, associate professor, master, bachelor, PhD student, student).",
+      "proposeAttach": "Please attach the theses of the talk or its abstract.",
+      "proposeNote": "Degrees and titles are given next to the speaker’s name in the announcement, so that readers can judge the talk at a glance.",
+      "proposeCta": "Write a proposal"
     },
     "ru": {
       "subtitle": "Семинар «Экономика энергетики и окружающей среды»",
       "description": "EEES — международный научный семинар «Экономика энергетики и окружающей среды», работающий с 2011 года под руководством В. М. Полтеровича и С. Я. Чернавского: энергетические рынки, природные ресурсы и окружающая среда, сложные системы, технологические изменения и оптимизация.",
-      "footerRegister": "Анонс каждого заседания приходит подписчикам рассылки примерно за неделю.",
       "proposeTalk": "Чтобы предложить доклад, напишите на",
-      "announcedShortly": "Следующее заседание будет объявлено в скором времени; подписчики получат анонс по почте.",
-      "noUpcoming": "Ближайшие заседания пока не назначены. Анонс следующего рассылается примерно за неделю.",
+      "announcedShortly": "Следующее заседание будет объявлено в ближайшее время.",
+      "noUpcoming": "Ближайшие заседания пока не назначены.",
       "archiveIntro": "Записи, презентации и протоколы прошедших заседаний, опубликованные с согласия докладчиков.",
       "archiveEmpty": "Архив откроется с первой записанной сессии.",
       "joinOpenNote": "Заседание открытое. Конференция откроется, когда её начнёт организатор.",
       "joinLater": "Ссылка для подключения появится здесь перед заседанием.",
-      "subscribeLead": "Анонсы заседаний рассылаются по почте примерно за неделю: название, аннотация и ссылка для подключения.",
-      "subscribeHow": "Чтобы подписаться, напишите на адрес семинара. Укажите, пожалуйста, анонсы каких заседаний вы хотите получать: на русском языке, на английском или все.",
-      "subscribeNote": "Адрес используется только для рассылок семинара, не публикуется и никому не передаётся. В конце каждого письма есть ссылка для отписки; можно и просто написать на тот же адрес. Сам сайт не хранит никаких данных о посетителях: здесь нет аккаунтов, форм и счётчиков.",
-      "registerCta": "Подписаться на анонсы"
+      "footerPropose": "Предложения докладов принимаются по адресу семинара.",
+      "proposeLead": "Предложения выступить с докладом направляйте по электронной почте на адрес семинара. В предложении укажите:",
+      "proposeItems": "фамилии, имена и отчества докладчиков;\nаффилиации и должности;\nучёные степени и звания или уровень квалификации (профессор, доцент, магистр, бакалавр, аспирант, студент).",
+      "proposeAttach": "К предложению приложите тезисы доклада или аннотацию.",
+      "proposeNote": "Учёные степени и звания приводятся в объявлении рядом с фамилией докладчика, чтобы читатель сразу мог составить представление о предстоящем докладе.",
+      "proposeCta": "Написать предложение"
     }
   },
   "about": {
     "en": [
-      "EEES is the international research seminar on the Economics of Energy and the Environment, convened since 2011 by Victor Polterovich and Sergey Chernavsky. It meets online and brings together economists, physicists, engineers and policy researchers working on energy markets, natural resources and the environment, complex systems, technological change and optimisation.",
+      "EEES is the international research seminar on the Economics of Energy and the Environment, convened since 2011 by Victor Polterovich and Sergey Chernavsky. It meets online; its subjects are energy markets, natural resources and the environment, complex systems, technological change and optimisation.",
       "Talks are given in English or in Russian. Sessions are open: the link to join is on the page of each talk, and announcements are sent to the mailing list about a week ahead.",
       "Recordings are published with the speakers' permission, usually within a few days of the session; slides and the minutes of the discussion are published as they arrive. Comments and suggestions are welcome at the seminar address."
     ],
     "ru": [
-      "EEES — международный научный семинар «Экономика энергетики и окружающей среды», работающий с 2011 года под руководством В. М. Полтеровича и С. Я. Чернавского. Семинар проходит онлайн и объединяет экономистов, физиков, инженеров и исследователей политики, работающих с энергетическими рынками, природными ресурсами и окружающей средой, сложными системами, технологическими изменениями и оптимизацией.",
-      "Доклады читаются на английском или на русском языке. Заседания открытые: ссылка для подключения — на странице доклада, а анонс рассылается подписчикам примерно за неделю.",
+      "EEES — международный научный семинар «Экономика энергетики и окружающей среды», работающий с 2011 года под руководством В. М. Полтеровича и С. Я. Чернавского. Семинар проходит онлайн; его темы — энергетические рынки, природные ресурсы и окружающая среда, сложные системы, технологические изменения и оптимизация.",
+      "Доклады читаются на английском или на русском языке. Заседания открытые: ссылка для подключения — на странице доклада, а анонс рассылается по списку рассылки примерно за неделю.",
       "Записи публикуются с согласия докладчиков, как правило, в течение нескольких дней после заседания; презентации и протоколы обсуждений — по мере поступления. Комментарии и пожелания руководителям семинара можно направить на адрес семинара."
     ]
   },
